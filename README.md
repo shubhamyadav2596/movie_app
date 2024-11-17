@@ -13,8 +13,8 @@ This is a basic prototype of a movie search web application built with React.js.
 
 1. Clone this repository:
    
-   git clone https://github.com/your-username/movie-search-app.git
-   cd movie-search-app
+   git clone https://github.com/shubhamyadav2596/movie_app
+   cd movie-app
    
 
 2. Install dependencies:
